@@ -5,7 +5,7 @@ This project uses Q-learning to solve the CartPole problem in OpenAI Gym.
 
 ## Requirements
 - Python 3.x
-- Libraries: numpy, gym
+- Libraries: numpy, gymnasium, pytorch
 
 ## How to Run
 1. Clone the repository
